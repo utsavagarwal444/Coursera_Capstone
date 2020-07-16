@@ -1,2 +1,3 @@
 # Coursera_Capstone
-Repository for the IBM Capstone project
+My Repository for the IBM Capstone project
+Watch for updates
